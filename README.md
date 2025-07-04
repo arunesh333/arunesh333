@@ -5,5 +5,5 @@ Final year EEE Student @ SASTRA Deemed University
 -  I’m currently learning Data Analytics - SQL, and Dashboard creation
 -  I’m looking to collaborate with Tech companies and startups to contribute to the engineering projects.
 -  I’m open to internships, freelance opportunities, and team-based work
--  Reach me through [Mail](mailto:2005arunesh@gmail.com) or via [LinkedIn](https://linkedin.com/in/arunesh333)
+-  Reach me through [Mail](mailto:2005arunesh@gmail.com) / [LinkedIn](https://linkedin.com/in/arunesh333) / [Portfolio](https://aruneshdev.netlify.app)
 
