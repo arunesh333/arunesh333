@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Arunesh
 Final year EEE Student @ SASTRA Deemed University
 
--  I’m currently working on Software development, Web Design, and project-based learning
+-  I’m currently working on Software development, Electric Vehicles, and project-based learning
 -  I’m currently learning Data Analytics - SQL, and Dashboard creation
 -  I’m looking to collaborate with Tech companies and startups to contribute to the engineering projects.
 -  I’m open to internships, freelance opportunities, and team-based work
